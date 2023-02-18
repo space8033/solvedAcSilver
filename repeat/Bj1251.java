@@ -9,7 +9,6 @@ import java.util.Collections;
 public class Bj1251 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
         String s = br.readLine();
         String[] strings = new String[3];
         ArrayList<String> list = new ArrayList<>();
